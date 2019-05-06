@@ -1,5 +1,9 @@
 # lotServer
 
+## 内核支持
+```
+http://download.appexnetworks.com.cn/ls.do?m=availables
+```
 
 ## 用户安装
 ### 常规自动安装
