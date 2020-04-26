@@ -5,6 +5,11 @@
 http://download.appexnetworks.com.cn/ls.do?m=availables
 ```
 
+## 版本说明
+```
+http://download.appexnetworks.com.cn/releaseNotes/
+```
+
 ## 用户安装
 ### 常规自动安装
 ```
